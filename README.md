@@ -14,10 +14,9 @@ Utilizing machine learning algorithms to predict the geographic origins of human
 - Decision Tree Regression
 
 ## Dataset
-Total of 1986 chromosomes
-Two main clusters: South Asia and East Asia
-1812841 features detailing distinct biological traits
+- Total of 1986 chromosomes
+- Two main clusters: South Asia and East Asia
+- 1812841 features detailing distinct biological traits
 
 ## Results
 Achieved a test set accuracy of 92.33%.
-Applied various supervised learning algorithms to predict the exact geographic location of genomic origi
